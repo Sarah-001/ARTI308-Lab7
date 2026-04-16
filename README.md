@@ -1,2 +1,4 @@
 # ARTI308-Lab7
-Lab 6: Logistic Regression
+Lab 7: Logistic Regression
+
+The model was able to predict user behavior with good accuracy.
